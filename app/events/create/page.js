@@ -120,7 +120,6 @@ function CreateEventPage() {
               id="participants"
               value={formData.participants}
               onChange={handleChange}
-              required
               className="border border-gray-300 rounded-lg w-full p-3 focus:outline-none focus:ring-2 focus:ring-purple-500"
             />
           </div>

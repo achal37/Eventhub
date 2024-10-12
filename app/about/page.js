@@ -97,7 +97,7 @@ const About = () => {
         </div>
 
         {/* Call to Action */}
-        <div className="mt-12">
+        <div className="mt-12 pb-10">
           <h3 className="text-xl font-bold text-purple-700">
             Join the Eventhub Community
           </h3>
@@ -106,19 +106,6 @@ const About = () => {
             perfect space to make it happen. Start browsing today, and let the
             adventure begin!
           </p>
-        </div>
-
-        {/* Contact Information */}
-        <div className="mt-12">
-          <h3 className="text-xl font-bold text-purple-700">Contact Us</h3>
-          <p className="text-gray-600 mt-2">We’d love to hear from you!</p>
-          <p className="text-gray-600">
-            Email:{" "}
-            <a href="mailto:support@eventhub.com" className="text-orange-500">
-              support@eventhub.com
-            </a>
-          </p>
-          <p className="text-gray-600">Phone: (123) 456-7890</p>
         </div>
       </div>
     </div>
